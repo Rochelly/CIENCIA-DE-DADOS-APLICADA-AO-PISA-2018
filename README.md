@@ -5,7 +5,7 @@ A presente pesquisa foi desenvolvida no Programa de Mestrado Profissional em Edu
 ## Considerações iniciais
 Ao executar os códigos, é importante ressaltar que os resultados podem variar minimamente a cada execução devido ao fator da aleatoriedade em algumas partes do código, como por exemplo, o parâmetro "random_state" que é utilizado por padrão pela função "train_test_split".
 
-### Configurando o ambiente
+### Configurando o ambiente - (Testado em ambiente linux 🐧) 
 Abra o terminal e atualize a lista de pacotes disponíveis:
 ``` 
 sudo apt update
